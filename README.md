@@ -9,9 +9,10 @@ This repository includes the data used in the empirical analysis of the paper
 
 
 ## Cite
+[![DOI](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815)
 To cite this material, please cite the [paper](https://doi.org/) using its DOI.
 
-[![DOI](https://zenodo.org/badge/)](https://zenodo.org/badge/latestdoi/) (TBA)
+
 
 
 ## Description
