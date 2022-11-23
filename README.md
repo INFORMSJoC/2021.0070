@@ -9,10 +9,20 @@ This repository includes the data used in the empirical analysis of the paper
 
 
 ## Cite
-[![DOI](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815)
 To cite this material, please cite the [paper](https://doi.org/) using its DOI.
+[![DOI](https://zenodo.org/badge/563106460.svg)](https://zenodo.org/badge/latestdoi/563106460)
+Below is the BibTex for citing this data.
 
-
+```
+@article{PutABibTexKeyHere,
+  author =        {Hooman Hidaji},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {Now You See it, Now You Don’t: Obfuscation of Online Third-Party Information Sharing v2021.0700},
+  year =          {2022},
+  doi =           {10.5281/zenodo.7336098},
+  url =           {https://github.com/INFORMSJoC/2021.0700},
+}  
+```
 
 
 ## Description
