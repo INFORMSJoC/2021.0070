@@ -17,7 +17,7 @@ Below is the BibTex for citing this data.
 
 ```
 @article{PutABibTexKeyHere,
-  author =        {A. Eshghi, R. Gopal, H. Hidaji, and R. Patterson},
+  author =        {Eshghi, A. and Gopal, R. and Hidaji, H. and Patterson, R.},
   publisher =     {INFORMS Journal on Computing},
   title =         {Now You See it, Now You Don’t: Obfuscation of Online Third-Party Information Sharing v2021.0700},
   year =          {2022},
