@@ -5,7 +5,7 @@
 This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [Creative Commons Attribution-NonCommercial-NoDerivs](LICENSE).
 
 This repository includes the data, scripts, and results of the empirical analysis in the paper
-[Now You See it, Now You Don't: Obfuscation of Online Third-Party Information Sharing](https://doi.org/) by Eshghi, A., R. Gopal, H. Hidaji, and R. Patterson.
+[Now You See it, Now You Don't: Obfuscation of Online Third-Party Information Sharing](https://doi.org/) by A. Eshghi, R. Gopal, H. Hidaji, and R. Patterson.
 
 
 ## Cite
