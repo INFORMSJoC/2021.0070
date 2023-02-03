@@ -1,6 +1,6 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# Data for the Empirical Analysis of the Paper ["Now You See it, Now You Don't: Obfuscation of Online Third-Party Information Sharing"](https://doi.org/10.1287/ijoc.2022.1266) 
+# "Now You See it, Now You Don't: Obfuscation of Online Third-Party Information Sharing"(https://doi.org/10.1287/ijoc.2022.1266) 
 
 This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [Creative Commons Attribution-NonCommercial-NoDerivs](LICENSE).
 
